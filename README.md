@@ -3,6 +3,13 @@
 ## Overview
 In this lab, you will review Python basics, Git workflows, and get started with PyTorch.
 
+## Learning Objectives
+
+By the end of this lab, you will be able to:
+- Use Git and GitHub for coursework
+- Create and activate a Python virtual environment
+- Run basic PyTorch code
+
 ## Instructions
 
 1. Click **Use this template**
