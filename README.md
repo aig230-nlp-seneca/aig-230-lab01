@@ -1,2 +1,21 @@
-# aig-230-lab01
-AIG 230 – Lab 01: Python, Git, and PyTorch Review
+# AIG 230 – Lab 01
+
+## Overview
+In this lab, you will review Python basics, Git workflows, and get started with PyTorch.
+
+## Instructions
+
+1. Click **Use this template**
+2. Create a new repository under **your own GitHub account**
+   - Recommended name: `aig230-lab01-yourname`
+3. Clone your repository locally
+4. Create and activate a virtual environment
+5. Complete the tasks in `starter/lab01.ipynb`
+6. Push your work to **your own repository**
+7. Submit your GitHub repository link on Blackboard
+
+⚠️ Do **not** push code to the course repository.
+
+## Deliverables
+- Completed notebook
+- All code pushed to your own GitHub repository
