@@ -10,6 +10,13 @@ By the end of this lab, you will be able to:
 - Create and activate a Python virtual environment
 - Run basic PyTorch code
 
+## Schedule
+- 8:00 am to 8:30 am Setup
+- 8:30 am to 8:45 am Git
+- 5 mins Break
+- 8:50 am to 9:20 am Python Review
+- 9:20 am to 9:50 am PyTorch Intro
+
 ## Instructions
 
 1. Click **Use this template**
