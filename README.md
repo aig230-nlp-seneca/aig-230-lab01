@@ -26,3 +26,9 @@ By the end of this lab, you will be able to:
 ## Deliverables
 - Completed notebook
 - All code pushed to your own GitHub repository
+
+## Submission Instructions
+
+Submit the link to your **personal GitHub repository** for this lab on Blackboard.
+
+Do not upload files directly to Blackboard.
